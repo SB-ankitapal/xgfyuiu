@@ -11,7 +11,7 @@ info:
     name: Support
     url: 'https://www.flex.one'
     email: support@flex.one
-  description: Endpoints for Bankingmjhyj
+  description: Endpoints for Bankingmjhyjmmm
   summary: Flex Banking
 servers:
   - url: 'http://localhost:3000'
